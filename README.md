@@ -75,5 +75,6 @@ The program will output a 4x4 Mueller matrix based on the entered angles and pol
 ### Resources
 
 - Taken from Diffuse backscattering Mueller matrices of highly scattering media paper by Andreas H. Hielscher
+![His Work](https://github.com/user-attachments/assets/d28615c6-6baa-4938-a977-0414fac345da)
 
 ---
